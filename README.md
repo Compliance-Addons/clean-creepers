@@ -4,7 +4,7 @@
 Clean Creepers is a resource pack for Minecraft Java Edition that works as an add-on for Compliance 32x.
 It changes the default creeper texture to be cleaner.
 
-Original idea by (Natzival)[https://www.planetminecraft.com/member/natzival/]
+Original idea by [Natzival](https://www.planetminecraft.com/member/natzival/)
 
 ### Screenshots
 ![Minecraft Screenshot](https://raw.githubusercontent.com/Compliance-Addons/clean-creepers/main/preview.jpg)
